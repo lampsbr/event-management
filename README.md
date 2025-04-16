@@ -1,1 +1,5 @@
-remember to migrate+seed using `php artisan migrate:refresh --seed`.
+remember to migrate+seed.
+
+- composer install
+- php artisan migrate:refresh --seed
+- php artisan serve
