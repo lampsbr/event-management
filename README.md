@@ -1,0 +1,1 @@
+remember to migrate+seed using `php artisan migrate:refresh --seed`.
